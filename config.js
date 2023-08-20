@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94758179948', 'KALINDU', true],
-  ['94758179948', 'KALINDU', true], 
-  [''] 
+  ['94704020146', 'KALINDU', true],
+  ['94704020146', 'KALINDU', true], 
+  ['94704020146'] 
 ] //Number of owners
 
-global.mods = ['94758179948','94758179948'] 
+global.mods = ['94704020146','94704020146'] 
 global.prems = ['94758179948', '94758179948', '94758179948']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -49,13 +49,13 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 SONIC-MD 💝'
 global.premium = 'true'
-global.packname = '💝 SONIC-MD 💝 Created By 💝 KALINDU 💝' 
-global.author = '💝 KALINDU 💝' 
+global.packname = '💝 SONIC-MD 💝 Created By 💝 PAMIDU 💝' 
+global.author = '💝 PAMIDU💝' 
 global.igfg = '▢ Follow on GITHUB\nhttps://github.com/KALINDU-LK\n' 
-global.dygp = 'https://chat.whatsapp.com/LkP8QZqdhXUKxmc0hUPip5'
+global.dygp = 'https://chat.whatsapp.com/DIW6aoxcrVI1K3nSNocBmt'
 global.fgsc = 'https://github.com/KALINDU-LK/SONIC-MD' 
-global.fgyt = 'https://chat.whatsapp.com/LkP8QZqdhXUKxmc0hUPip5'
-global.fgpyp = 'https://chat.whatsapp.com/LkP8QZqdhXUKxmc0hUPip5'
+global.fgyt = 'https://chat.whatsapp.com/DIW6aoxcrVI1K3nSNocBmt'
+global.fgpyp = 'https://chat.whatsapp.com/DIW6aoxcrVI1K3nSNocBmt'
 global.fglog = 'https://imgur.com/a/JtCzwRm' 
 
 
