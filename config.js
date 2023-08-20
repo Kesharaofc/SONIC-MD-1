@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '💝 SONIC-MD 💝'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = '💝 SONIC-MD 💝 Created By 💝 PAMIDU 💝' 
 global.author = '💝 PAMIDU💝' 
 global.igfg = '▢ Follow on GITHUB\nhttps://github.com/KALINDU-LK\n' 
